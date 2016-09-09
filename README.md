@@ -3,7 +3,7 @@
 This is a simple application for WS demonstartion. It was created only for special server. So after understanding basics you can change it for your goals. It will be easy, I guarantee!
 - Unity version: 5.4.0f3
 - WebSockets: https://www.assetstore.unity3d.com/en/#!/content/38367
-- Server is written via Scala. Sources you can find here: For start project **you should have installed last Java Runtime Environment**. Then open **cmd**, change dir to desirable folder, and put **java -jar WebSocketServer-assembly-1.0.jar**
+- Server is written via Scala. Sources you can find here: [github.com/DarkDesire/websocket-akka-http](https://github.com/DarkDesire/websocket-akka-http). For start project **you should have installed last Java Runtime Environment**. Then open **cmd**, change dir to desirable folder, and put **java -jar WebSocketServer-assembly-1.0.jar**
 
 i won't continue this project because i created it only for testing socket server, so 
 
@@ -16,7 +16,7 @@ i won't continue this project because i created it only for testing socket serve
 Простое клиентское приложение для демонстрации WebSocketServera. Оно предназначается для специального сервера (специфичный хардкодный путь). После понимание функционирования можно легко заменить путь и использовать уже в своих целях. Это сделать достаточно легко, я гарантирую!
 - Unity version: 5.4.0f3
 - WebSockets: https://www.assetstore.unity3d.com/en/#!/content/38367
-- Сервер написан на Scala. Исходники сервера можно найти тут: Для запуска проекта **вы должны иметь установленную Java Runtime Environment**. Идем в поиск, вбиваем **cmd**, меняем директорую на ту, где лежит сервер, и пишем  **java -jar WebSocketServer-assembly-1.0.jar**
+- Сервер написан на Scala. Исходники сервера можно найти тут: [github.com/DarkDesire/websocket-akka-http](https://github.com/DarkDesire/websocket-akka-http). Для запуска проекта **вы должны иметь установленную последнюю Java Runtime Environment**. Идем в поиск, вбиваем **cmd**, меняем директорую на ту, где лежит сервер, и пишем  **java -jar WebSocketServer-assembly-1.0.jar**
 
 я не буду продолжать этот проект, т.к. он был создан для тестирования сервера, так что
 
