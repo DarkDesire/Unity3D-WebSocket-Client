@@ -10,7 +10,8 @@ i won't continue this project because i created it only for testing socket serve
 ### Exercises for you! 
 1. Implement FSM for changing UI states. Remove ui logic from WebSocketHandler.
 2. Fix problem in WS library, which says that you connected even uri is wrong.
-3. Imagine any more ....
+3. Text area field has problem. It doesn't support scrolling. So, fix it!
+4. Imagine any more ....
 
 ## Rus
 Простое клиентское приложение для демонстрации WebSocketServera. Оно предназначается для специального сервера (специфичный хардкодный путь). После понимание функционирования можно легко заменить путь и использовать уже в своих целях. Это сделать достаточно легко, я гарантирую!
@@ -23,7 +24,8 @@ i won't continue this project because i created it only for testing socket serve
 ### Задания для тебя! 
 1. Добавить конечный автомат для UI. И соответственно удалить всю view логику из WebSocketHandler.
 2. Решить проблему с WS библиотекой, которая пишет, что вы присоединены даже, если на самом деле путь неправильный. Видимо, в библиотеке тупо проверяется на регулярку подходит ли путь или нет.
-3. Придумайте еще больше заданий...
+3. Проблема с текстовым полем. По умолчанию он не поддерживает скроллинг и нужны шаманства. Реализуй это!
+4. Придумайте еще больше заданий...
 
 ## Гифка для наглядности / Gif for clarity
 ![1](http://storage9.static.itmages.ru/i/16/0909/h_1473463001_4820244_0e5233ffdc.gif)
